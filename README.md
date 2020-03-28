@@ -10,7 +10,17 @@ Inspired by [the original reddit reskin by pcottle](http://pcottle.github.io/MSO
 
 ## Example
 
-insert example image
+Free tier:
+gets access to the retro Outlook version
+-image-
+
+Paid tier (only £10 I know y'all boarders can afford it):
+gets access to the modern Outlook version
+I'll also customise the pagearound you to make it look more realistic
+-image-
+
+Exclusive Tier:
+I'll completely customise the email around you and reskin any website you choose, doesn't have to be reddit
 
 ## Setup
 
